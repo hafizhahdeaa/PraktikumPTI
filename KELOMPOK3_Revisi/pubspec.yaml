@@ -1,0 +1,132 @@
+name: mycup_flutter
+description: MyCup Application - A Flutter project.
+
+publish_to: 'none' # Keeps it private
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  grouped_list: ^6.0.0
+  bitsdojo_window: ^0.1.6
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "images/MyCupLogo.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/MyCupLogo.png
+    - images/background.png
+    - images/image2_263.png
+    - images/image3_2401389.png
+    - images/image4_2401390.png
+    - images/image5_2793189.png
+    - images/image6_2793191.png
+    - images/next.png 
+    - images/logowelcome.png
+    - images/bijikopi.png 
+    - images/chocofloat.png
+    - images/americano.png 
+    - images/image_2472185.png
+    - images/image_2472201.png
+    - images/image_2472204.png
+    - images/image_2501637.png
+    - images/image_2521526.png
+    - images/image_2521549.png
+    - images/image_2521573.png
+    - images/image_2521585.png
+    - images/image_2521589.png
+    - images/image_2551594.png
+    - images/image_2551600.png
+    - images/image_2551607.png
+    - images/image_2641650.png
+    - images/image_2641659.png
+    - images/image_2641758.png
+    - images/image_2641765.png
+    - images/image_2641774.png
+    - images/image_2641784.png
+    - images/image_2641805.png
+    - images/image_2641816.png
+    - images/image_2641827.png
+    - images/image_2641838.png
+    - images/image_2662518.png
+    - images/image_2662524.png
+    - images/image_2662533.png
+    - images/image_2662546.png
+    - images/image_2662547.png
+    - images/image_2662585.png
+    - images/image_2662642.png
+    - images/image_2472185.png
+    - images/image_2472201.png
+    - images/image_2472204.png
+    - images/image_2501637.png
+    - images/image_2521526.png
+    - images/image_2521549.png
+    - images/image_2521573.png
+    - images/image_2521585.png
+    - images/image_2521589.png
+    - images/image_2551594.png
+    - images/image_2551600.png
+    - images/image_2551607.png
+    - images/image_2641650.png
+    - images/image_2641659.png
+    - images/image_2641758.png
+    - images/image_2641765.png
+    - images/image_2641774.png
+    - images/image_2641784.png
+    - images/image_2641805.png
+    - images/image_2641816.png
+    - images/image_2641827.png
+    - images/image_2641838.png
+    - images/image_2662518.png
+    - images/image_2662524.png
+    - images/image_2662533.png
+    - images/image_2662546.png
+    - images/image_2662547.png
+    - images/image_2662585.png
+    - images/image_2662642.png
+    - images/image_2662665.png
+    - images/image_2682680.png
+    - images/image_2682696.png
+    - images/image_2682710.png
+    - images/image_2682718.png
+    - images/image1_2454841.png
+    - images/image1_2641745.png
+    - images/image1_2793187.png
+    - images/image2_263.png
+    - images/image2_2471645.png
+    - images/image2_2641746.png
+    - images/image3_2401389.png
+    - images/image3_2471650.png
+    - images/image3_2641751.png
+    - images/image4_2401390.png
+    - images/image4_2521518.png
+    - images/image4_2641752.png
+    - images/image5_2793189.png
+    - images/image6_2793191.png
+    - images/image7_2521529.png
+    - images/image8_2793186.png
+    - images/image9_2793190.png
+    - images/image10_2793193.png
+    - images/logowelcome.png
+    - images/MyCupLogo.png
+    - images/image_ble.png
+    - images/image_2641794.png
+    - images/image1_home_.png
+    - images/image2_keranjang.png
